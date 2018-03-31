@@ -1,0 +1,14 @@
+/*********************************************
+ * OPL 12.6.1.0 Data
+ * Author: liyuanyuan
+ * Creation Date: 22 nov. 2017 at 17:41:54
+ *********************************************/
+
+ Sommets={"sommet1","sommet2","sommet3","sommet4","sommet5"};
+ Couleur={"couleur1","couleur2","couleur3","couleur4","couleur5"};
+ NbCouleur=5;
+ Arcs=[[0,1,0,0,1],
+ [ 1,0,1,0,0 ],
+ [ 0,0,0,1,0],
+ [ 0,1,0,0,1]
+  [0,1,0,1,0]];
